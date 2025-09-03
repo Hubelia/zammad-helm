@@ -481,6 +481,7 @@ zammadConfig:
 
   initJob:
     randomName: true
+    ttlSecondsAfterFinished: 300
     annotations: {}
     # my-annotation: "value"
     podLabels: {}
